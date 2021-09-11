@@ -5,9 +5,9 @@
 
 ## Dev
 
-* [Git](#)
-  * [Git基础](dev/git/git.md)
+* [Git](dev/git/README.md)
+  * [Git基础](dev/git/base.md)
 
 ## Ops
 
-* [Linux](#)
+* [Linux](ops/linux/README.md)
